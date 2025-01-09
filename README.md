@@ -1,6 +1,6 @@
-# hey there 👋
+# Hello There! 👋
 
-![Hello there gif](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+![Coding on Computer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## About Me
 Hello! My name is Dafa Pradipa, Im a Software Engineer with 3 Years Experience on this field, Im Mastering Front-end and Interface Design for Mobile and Website, Im very passionate on this field
